@@ -1,2 +1,2 @@
 # Demo-Hub
-A central repository containing various demon created for client presentations and showcases
+A central repository containing various demo created for client presentations and showcases
