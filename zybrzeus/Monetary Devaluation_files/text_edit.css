@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+}
+
+/**----textedi_4-----**/
+
+#h_Testimonials5 .main-row {
+    background: white;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#h_Testimonials5 .icon_red {
+    color: #CD0026;
+    font-size: 20px;
+}
+
+#h_Testimonials5 .list_item {
+    font-size: 18px;
+}
+
+
+
+/**----part1-----**/
+
+#h_Testimonials1 .main-row {
+    background: #eff3f6;
+    margin: 0;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+#h_Testimonials1 .img-div {
+    margin-bottom: 35px;
+}
+
+#h_Testimonials1 .img-div img {
+    margin-left: 41px;
+    width: 95%;
+}
+
+#h_Testimonials1 .main-col h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 22px;
+    margin-left: 40px;
+    font-family: "Open Sans", sans-serif;
+}
+
+#h_Testimonials1 .main-col ul {
+    margin-left: 18px;
+    margin-bottom: 36px;
+    list-style-type: disc;
+    padding-left: 21px;
+}
+
+#h_Testimonials1 .main-col ul li {
+    font-size: 17px;
+    margin-bottom: 16px;
+    font-family: "Open Sans", sans-serif;
+}
+#h_Testimonials1 .hr-div{
+    margin-left: 59px;
+}
+#h_Testimonials1 .hr-div hr{
+    border-color: #dcdcdc;
+    margin-bottom: 0;
+}
+
+
+
+/**-----part2-----**/
+
+#h_Testimonials2 .main-row {
+    background: #eff3f6;
+    margin: 0;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+#h_Testimonials2 .main-row div h2 {
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+#h_Testimonials2 .main-row div p {
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;;
+    line-height: 25px;
+}
+#h_Testimonials2 .hr-div{
+
+}
+
+#h_Testimonials2 .hr-div hr{
+    border-color: #dcdcdc;
+    margin-bottom: 0;
+}
+
+
+/**-----part3-----**/
+
+
+#h_Testimonials3 .main-row{
+    background: #eff3f6;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#h_Testimonials3 .main-row div h2{
+    text-align: center;
+    margin-left: 69px;
+    width: 84%;
+    margin-top: 0px;
+    margin-bottom: 36px;
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+}
+#h_Testimonials3 .main-row div img{
+    margin: 0 auto;
+}
+#h_Testimonials3 .main-row div p{
+    font-size: 17px;
+    margin-left: 69px;
+    width: 84%;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+/**-----Media Query-----**/
+
+/**------part1 media query-----**/
+@media (max-width: 767px) {
+    #h_Testimonials1 .img-div{
+        margin-right: 41px;
+    }
+    #h_Testimonials1 .main-col ul{
+        margin-right: 18px;
+    }
+}
